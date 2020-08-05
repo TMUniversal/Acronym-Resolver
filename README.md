@@ -1,5 +1,7 @@
 # Acronym Resolver
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/60b7ec455e754dbdaf93e38673dfb008)](https://app.codacy.com/manual/Uni/Acronym-Resolver?utm_source=github.com&utm_medium=referral&utm_content=TMUniversal/Acronym-Resolver&utm_campaign=Badge_Grade_Settings)
+
 <div>
 	<p align="center">
 		<a href="https://github.com/TMUniversal/Acronym-Resolver/blob/master/package.json#L3">
